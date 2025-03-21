@@ -23,5 +23,5 @@ Os exercícios deste repositório fazem parte de uma série de práticas para ap
 
 # 👩‍🏫 Equipe de Professores
 
-**Prof. Thiago Rariz**
+**Prof. Thiago Rariz**<br>
 **Prof. Carlos Eduardo**
