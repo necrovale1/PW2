@@ -22,7 +22,7 @@ Os exercícios deste repositório fazem parte de uma série de práticas para ap
 
 📝 Expansão do projeto com novas funcionalidades e melhorias.
 
-# ✍️ Feito por
+✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
 
 # 👩‍🏫 Equipe de Professores
 
