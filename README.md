@@ -10,17 +10,14 @@ Os exercícios deste repositório fazem parte de uma série de práticas para ap
 
 # ⚙️ Funcionalidades Principais
 
-🗒️ Formulário de Entrada de Dados: Interface simples para inserção de informações.
-
-📊 Processamento de Dados: Cálculo e exibição dos resultados de acordo com a lógica implementada.
-
-🌏 Estilização Personalizada: Interface com tema escuro e cores diferenciadas para realce dos elementos.
+🗒️ Formulário de Entrada de Dados: Interface simples para inserção de informações.<br>
+📊 Processamento de Dados: Cálculo e exibição dos resultados de acordo com a lógica implementada.<br>
+🌏 Estilização Personalizada: Interface com tema escuro e cores diferenciadas para realce dos elementos.<br>
 
 # 🌟 Extras
 
-🌟 Possibilidade de personalizar os estilos da interface via CSS.
-
-📝 Expansão do projeto com novas funcionalidades e melhorias.
+🌟 Possibilidade de personalizar os estilos da interface via CSS.<br>
+📝 Expansão do projeto com novas funcionalidades e melhorias.<br>
 
 ✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
 
